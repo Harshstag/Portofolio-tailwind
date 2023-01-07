@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": true
+    },
+    "files.associations":{
+        "*.css": "\"tailwindcss\""
+    }
+}
